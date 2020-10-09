@@ -1,0 +1,48 @@
+{
+  "loadcases": [
+    {
+      "lcid": 0,
+      "unilcs": [{
+        "fueid" : 2001,
+        "factor" : 0.564
+      }, {
+        "fueid" : 2002,
+        "factor" : 1.05
+      }
+      ]
+    },
+    {
+      "lcid": 1,
+      "unilcs": [{
+        "fueid" : 2001,
+        "factor" : 0.564
+      }, {
+        "fueid" : 2003,
+        "factor" : -1.55
+      }
+      ]
+    },
+    {
+      "lcid": 2,
+      "unilcs": [{
+        "fueid" : 2001,
+        "factor" : 0.2
+      }, {
+        "fueid" : 2003,
+        "factor" : 1.55
+      }
+      ]
+    },
+    {
+      "lcid": 111,
+      "unilcs": [{
+        "fueid" : 2001,
+        "factor" : 0.0
+      }, {
+        "fueid" : 2003,
+        "factor" : 1.55
+      }
+      ]
+    }
+  ]
+}
